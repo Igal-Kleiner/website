@@ -208,7 +208,7 @@ Examples of **correct** code for this rule when configured `{ "functions": "neve
 /*eslint-env es6*/
 
 class Foo {
-  constructor(){}
+  constructor() {}
 }
 ```
 
